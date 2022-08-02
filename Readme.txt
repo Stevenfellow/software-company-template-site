@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+This is a software company site template.. easily downloadable and easy to use
 
-Template Name: Groovin
-Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+
